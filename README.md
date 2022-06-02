@@ -9,7 +9,7 @@
 3. Once done, kindly email your repository link to felicia.yap@rizurf.com
 
 ```diff
--  You are **ONLY** allowed to use **Figma** as your prototyping tool which includes all other plugins provided in Figma.
+-  You are ONLY allowed to use Figma as your prototyping tool which includes all other plugins provided in Figma.
 ```
 
 ### Case Study Scenario
