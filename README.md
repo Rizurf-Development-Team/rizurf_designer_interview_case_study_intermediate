@@ -1,4 +1,4 @@
-# rizurf_designer_interview_case_study_beginner
+# rizurf_designer_interview_case_study_intermediate
 
 ## Designer Assesment Case Study
 
