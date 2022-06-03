@@ -2,7 +2,7 @@
 
 ## Designer Assesment Case Study
 
-#### In this section, basic authentication, database techniques and CRUD functions will be tested on the candidates.
+#### In this section, your designing skills will be tested based on your level of understanding using Figma prototyping tool.
 
 1. Fork the repository to your own independent machine
 2. Implementing user requirements & functionalities as stated below
