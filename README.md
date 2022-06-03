@@ -45,4 +45,4 @@ _Additionally, you will be required to incorporate all the functionalities provi
 - You may add any other information/functionalities into the system which you find suitable.
 - You may include a color scheme which is suitable for the prototype based on the feels of the organization.
 - Your design does not have to be fancy in any way but should also be attractive in terms of the choice of color template and the screen layout.
-- Additionally, knowledge on CSS (Cascading Style Sheets) language would also increase the value of your application.
+- Additionally, knowledge on CSS (Cascading Style Sheets) language would be an added advantage.
